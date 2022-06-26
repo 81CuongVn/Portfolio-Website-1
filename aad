@@ -1,0 +1,179 @@
+[33mcommit d33ccf29b9e065435eba63f5ab12a6d789022490[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: blaze-pvt <talwadkerdinesh@gmail.com>
+Date:   Sun Jun 26 11:53:17 2022 +0530
+
+    updated info on navbar and footer pages
+
+[33mcommit db38604585e087af61803d8dcd83b8e2a3383336[m[33m ([m[1;31mmain/main[m[33m)[m
+Author: Adrian Hajdin - JavaScript Mastery <adrianhajdin00@gmail.com>
+Date:   Tue Jun 7 23:01:04 2022 +0200
+
+    Update README.md
+
+[33mcommit 6fb27c424bd6e408a1051dbbb02596495f2cb342[m
+Author: Adrian Hajdin - JavaScript Mastery <adrianhajdin00@gmail.com>
+Date:   Wed May 25 10:53:20 2022 +0200
+
+    Update README.md
+
+[33mcommit aa859f2389209d7e2fb6eb26a7fc2c2f3a7e94b6[m
+Author: Adrian Hajdin - JavaScript Mastery <adrianhajdin00@gmail.com>
+Date:   Sat Jun 12 08:35:04 2021 +0200
+
+    Update README.md
+
+[33mcommit 3111cf637622e7ab76db692a05e9bef91d616735[m
+Author: Adrian Hajdin - JavaScript Mastery <adrianhajdin00@gmail.com>
+Date:   Tue Jun 8 20:24:05 2021 +0200
+
+    finished code
+
+[33mcommit a5d41f89dd4a0fa61c2c85c01bce20d0ef1bb91d[m
+Author: Adrian Hajdin - JavaScript Mastery <adrianhajdin00@gmail.com>
+Date:   Tue Jun 8 18:53:31 2021 +0200
+
+    remove title
+
+[33mcommit ce2b2e540cb6fc7bc012c42d251840a1a0f1fce6[m
+Merge: 9f56215 03ac5aa
+Author: Adrian Hajdin - JavaScript Mastery <adrianhajdin00@gmail.com>
+Date:   Tue Jun 8 18:22:34 2021 +0200
+
+    Merge branch 'main' of https://github.com/adrianhajdin/portfolio_website
+
+[33mcommit 9f56215a7261f99b23e624c2a593fd4b6fece136[m
+Author: Adrian Hajdin - JavaScript Mastery <adrianhajdin00@gmail.com>
+Date:   Tue Jun 8 18:22:29 2021 +0200
+
+    add title
+
+[33mcommit 03ac5aa9ff4e7b94dcb709106e47c3a45adb5868[m
+Author: Adrian Hajdin - JavaScript Mastery <adrianhajdin00@gmail.com>
+Date:   Tue Jun 8 18:20:43 2021 +0200
+
+    Update README.md
+
+[33mcommit 713ef21eaf7e956ae0d92908731577c2fc839528[m
+Author: Adrian Hajdin - JavaScript Mastery <adrianhajdin00@gmail.com>
+Date:   Tue Jun 8 18:19:15 2021 +0200
+
+    Update README.md
+
+[33mcommit 27b3340382f8f9967da9447828c4988d01ac6dee[m
+Author: Adrian Hajdin - JavaScript Mastery <adrianhajdin00@gmail.com>
+Date:   Mon May 31 08:41:10 2021 +0200
+
+    final changes
+
+[33mcommit 499071bab0baca40598076b4f9955a2f49ece42d[m
+Author: Adrian Hajdin - JavaScript Mastery <adrianhajdin00@gmail.com>
+Date:   Mon May 31 08:10:40 2021 +0200
+
+    add keys
+
+[33mcommit a3b05865a1ac75587c819d88c7e464ce56e42a92[m
+Merge: 8c921a0 243a63a
+Author: Adrian Hajdin - JavaScript Mastery <adrianhajdin00@gmail.com>
+Date:   Mon May 31 08:03:07 2021 +0200
+
+    Merge pull request #3 from adrianhajdin/final_touches
+    
+    final touches
+
+[33mcommit 243a63ac7d9b079195ba4c27c02da9915fc0e08f[m
+Merge: c2aec0f 8c921a0
+Author: Adrian Hajdin - JavaScript Mastery <adrianhajdin00@gmail.com>
+Date:   Fri May 28 18:13:53 2021 +0200
+
+    merge
+
+[33mcommit c2aec0fb22cc4795ad7111a1eb91406e64b58d31[m
+Author: Enyel Sequeira <enyelsequeira@hotmail.com>
+Date:   Sat May 29 00:01:21 2021 +0800
+
+    final touches
+
+[33mcommit 8c921a0609c97f8bf50d2e2e15aa54786b53086e[m
+Merge: 2115b0a 4acb166
+Author: Adrian Hajdin - JavaScript Mastery <adrianhajdin00@gmail.com>
+Date:   Fri May 28 16:54:21 2021 +0200
+
+    Merge pull request #2 from adrianhajdin/main_section
+    
+    All sections are done now
+
+[33mcommit 4acb166acadb5cba7f03620b7128b12b429f92e5[m
+Author: Adrian Hajdin - JavaScript Mastery <adrianhajdin00@gmail.com>
+Date:   Fri May 28 16:20:44 2021 +0200
+
+    formatting
+
+[33mcommit 0d1be0e0e917755702a41d46c27235904a1a2b01[m
+Merge: af3a59c 969742b
+Author: Adrian Hajdin - JavaScript Mastery <adrianhajdin00@gmail.com>
+Date:   Fri May 28 16:02:59 2021 +0200
+
+    merge
+
+[33mcommit af3a59cb4bf648102d288d2e2fc2c9019b5e8333[m
+Author: Adrian Hajdin - JavaScript Mastery <adrianhajdin00@gmail.com>
+Date:   Fri May 28 16:02:19 2021 +0200
+
+    scroll
+
+[33mcommit 969742b14214800f0b4ce44af570cd9ca2cc521f[m
+Author: Enyel Sequeira <enyelsequeira@hotmail.com>
+Date:   Fri May 28 19:25:52 2021 +0800
+
+    adding the animation on the hero and removing unused code
+
+[33mcommit a61d521c265fd99b14c820f97b2396cf9a39607a[m
+Author: Enyel Sequeira <enyelsequeira@hotmail.com>
+Date:   Fri May 28 17:00:49 2021 +0800
+
+    adding smooth scroll and links working correctly
+
+[33mcommit 8fa8df8ad0b1b4dea857adcb949a8f629ba98a53[m
+Author: Enyel Sequeira <enyelsequeira@hotmail.com>
+Date:   Fri May 28 16:57:49 2021 +0800
+
+    all section done
+
+[33mcommit 2115b0a62fde7a723910c007584c3a03e2583750[m
+Merge: f4b0a28 9023f03
+Author: Adrian Hajdin - JavaScript Mastery <adrianhajdin00@gmail.com>
+Date:   Thu May 27 09:27:48 2021 +0200
+
+    Merge pull request #1 from adrianhajdin/hero_section
+    
+    Hero section + Acomplishment section done
+
+[33mcommit 9023f03393bc2733de30dc0293ff6aaee73d9fec[m
+Author: Enyel Sequeira <enyelsequeira@hotmail.com>
+Date:   Thu May 27 13:26:54 2021 +0800
+
+    hero section and achievement done/not responsive yet
+
+[33mcommit 825c7dda590359ae17bb32e8689e9f4dbc320f5e[m
+Author: Enyel Sequeira <enyelsequeira@hotmail.com>
+Date:   Wed May 26 22:19:18 2021 +0800
+
+    fixing social icons on nav bar hover
+
+[33mcommit f4b0a28cd3322b09ef93993fab6b15af04ae4d76[m
+Author: Enyel Sequeira <enyelsequeira@hotmail.com>
+Date:   Wed May 26 21:54:07 2021 +0800
+
+    header section done logos links
+
+[33mcommit 213f37b41d4f5f474b1eb0d2811397ccb5003e17[m
+Author: Enyel Sequeira <enyelsequeira@hotmail.com>
+Date:   Tue May 25 23:08:14 2021 +0800
+
+    adding styled-components basic structure
+
+[33mcommit 8065686f6fd2df64d02cd24cdb696e06f0347cca[m
+Author: Adrian Hajdin - JavaScript Mastery <adrianhajdin00@gmail.com>
+Date:   Tue May 25 15:07:39 2021 +0200
+
+    Initial commit from Create Next App
